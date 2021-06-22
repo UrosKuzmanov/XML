@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE countrys_lis [    
+    <!ELEMENT countrys_lis (country)*>
+    <!ELEMENT country (name, region, capital, description,img)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT region (#PCDATA)>
+    <!ELEMENT capital (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+    <!ELEMENT img (#PCDATA)>
+]>
+<countrys_lis>
+    <country>
+        <name>Mauritius</name>
+        <region>Africa</region>
+        <capital>Port Louis</capital>
+        <description>
+            Republic of Mauritius, is an island nation in the Indian Ocean about 2,000 kilometres (1,200 mi) off the southeast coast of the African continent, east of Madagascar. It includes the main island (also called Mauritius), as well as Rodrigues, Agaléga and St. Brandon.[10][11] The islands of Mauritius and Rodrigues, along with nearby Réunion (a French overseas department), are part of the Mascarene Islands. The capital and largest city, Port Louis, is located in Mauritius, where most of the population is concentrated. The country spans 2,040 square kilometres (790 sq mi) and has an exclusive economic zone covering 2.3 million square kilometres.[12]
+
+            By some accounts, Arab sailors were the first to discover the uninhabited island, around 975, and they called it Dina Arobi, but this has not been confirmed. The earliest confirmed discovery was in 1507 by Portuguese sailors, who otherwise took little interest in the islands. The Dutch took possession in 1598, establishing a succession of short-lived settlements over a period of about 120 years, before abandoning their efforts in 1710. France took control in 1715, renaming it Isle de France. In 1810, the island was seized by Great Britain, and four years later France ceded Mauritius and its dependencies to Britain. As a British colony, Mauritius included Rodrigues, Agaléga, St. Brandon, Tromelin, the Chagos Archipelago, and, until 1906, the Seychelles.[10][13] Sovereignty over Tromelin is disputed between Mauritius and France, as it was not specifically mentioned in the Treaty of Paris.[14] Mauritius remained a primarily plantation-based colony of the United Kingdom until independence in 1968.
+        </description>
+        <img>./imgs/mauricius.jpg,./imgs/mauricius2.jpg,./imgs/mauritius3.jpg</img>
+    </country>
+    <country>
+        <name>Brazil</name>
+        <region>South America</region>
+        <capital>Brasilia</capital>
+        <description>
+            Federative Republic of Brazil,[a] is the largest country in both South America and Latin America. It covers an area of 8,515,767 square kilometres (3,287,956 sq mi), with a population of over 211 million. Brazil is the world's fifth-largest and sixth-most populous country, composed of 26 states and the Federal District. It is the largest country to have Portuguese as an official language and the only one in the Americas.[12][13] Brazil is one of the world's most multicultural and ethnically diverse nations, due to over a century of mass immigration from around the world.[14] It is also the most populous Roman Catholic-majority country, and its capital is Brasília, while the largest city is São Paulo.
+
+            Brazil is bounded by the Atlantic Ocean to the east, and has a coastline of 7,491 kilometers (4,655 mi).[15] It covers roughly half of South America's landmass, and borders all other countries in the continent except Ecuador and Chile.[16] Its Amazon basin includes a vast tropical forest, home to diverse wildlife, a variety of ecological systems, and extensive natural resources spanning numerous protected habitats.[15] This unique environmental heritage makes Brazil one of the seventeen megadiverse countries, and is the subject of significant global interest, as environmental degradation through processes like deforestation has direct impacts on global issues like climate change and biodiversity loss.
+        </description>
+        <img>./imgs/brazil.jpg,./imgs/brazil2.jpeg,./imgs/brazil3.jpg</img>
+    </country>
+    <country>
+        <name>Egypt</name>
+        <region>Africa</region>
+        <capital>Cairo</capital>
+        <description>rab Republic of Egypt, is a transcontinental country
+            spanning the northeast corner of Africa and southwest corner of Asia by a land bridge formed by the Sinai Peninsula. Egypt is a Mediterranean country bordered by the Gaza Strip (Palestine) and Israel to the northeast, the Gulf of Aqaba and the Red Sea to the east, Sudan to the south, and Libya to the west. Across the Gulf of Aqaba lies Jordan, across the Red Sea lies Saudi Arabia, and across the Mediterranean lie Greece, Turkey and Cyprus, although none share a land border with Egypt.
+
+            Egypt has one of the longest histories of any country, tracing its heritage along the Nile Delta back to the 6th–4th millennia BCE. Considered a cradle of civilisation, Ancient Egypt saw some of the earliest developments of writing, agriculture, urbanisation, organised religion and central government.[12] Iconic monuments such as the Giza Necropolis and its Great Sphinx, as well the ruins of Memphis, Thebes, Karnak, and the Valley of the Kings, reflect this legacy and remain a significant focus of scientific and popular interest. Egypt's long and rich cultural heritage is an integral part of its national identity, which reflects its unique transcontinental location being all Mediterranean, Middle Eastern and North African.[13] Egypt was an early and important centre of Christianity, but was largely Islamised in the seventh century and remains a predominantly Muslim country, albeit with a significant Christian minority.
+        </description>
+        <img>./imgs/egypt.jpg,./imgs/egypt2.jpg,./imgs/egypt3.jpg</img>
+    </country>
+    <country>
+        <name>Italy</name>
+        <region>Europ</region>
+        <capital>Rome</capital>
+        <description>
+            Italian Republic (Italian: Repubblica Italiana [reˈpubːlika itaˈljaːna]),[13][14] is a country consisting of a peninsula delimited by the Alps and several islands surrounding it.[15] Italy is located in south-central Europe,[16][17] and is also considered part of Western Europe.[18][19] A unitary parliamentary republic with Rome as its capital, the country covers a total area of 301,340 km2 (116,350 sq mi) and shares land borders with France, Switzerland, Austria, Slovenia, and the enclaved microstates of Vatican City and San Marino. Italy has a territorial enclave in Switzerland (Campione) and a maritime exclave in Tunisian waters (Lampedusa). With around 60 million inhabitants, Italy is the third-most populous member state of the European Union.
+
+            Due to its central geographic location in Southern Europe and the Mediterranean, Italy has historically been home to myriad peoples and cultures. In addition to the various ancient peoples dispersed throughout what is now modern-day Italy, the most predominant being the Indo-European Italic peoples who gave the peninsula its name, beginning from the classical era, Phoenicians and Carthaginians founded colonies mostly in insular Italy,[20] Greeks established settlements in the so-called Magna Graecia of Southern Italy, while Etruscans and Celts inhabited central and northern Italy respectively. An Italic tribe known as the Latins formed the Roman Kingdom in the 8th century BC, which eventually became a republic with a government of the Senate and the People. The Roman Republic initially conquered and assimilated its neighbours on the Italian peninsula, eventually expanding and conquering parts of Europe, North Africa and Asia. By the first century BC, the Roman Empire emerged as the dominant power in the Mediterranean Basin and became a leading cultural, political and religious centre, inaugurating the Pax Romana, a period of more than 200 years during which Italy's law, technology, economy, art, and literature developed.[21][22] Italy remained the homeland of the Romans and the metropole of the empire, whose legacy can also be observed in the global distribution of culture, governments, Christianity and the Latin script.
+        </description>
+        <img>./imgs/itali.jpg,./imgs/itali2.jpg,./imgs/itali3.jpg</img>
+    </country>
+    <country>
+        <name>Peru</name>
+        <region>South America</region>
+        <capital>Lima</capital>
+        <description>
+            Republic of Peru (Spanish: About this soundRepública del Perú (help·info)), is a country in western South America. It is bordered in the north by Ecuador and Colombia, in the east by Brazil, in the southeast by Bolivia, in the south by Chile, and in the south and west by the Pacific Ocean. Peru is a megadiverse country with habitats ranging from the arid plains of the Pacific coastal region in the west to the peaks of the Andes mountains extending from the north to the southeast of the country to the tropical Amazon Basin rainforest in the east with the Amazon river.[9] At 1.28 million km2 (0.5 million mi2), Peru is the 19th largest country in the world, and the third largest in South America.
+
+            Peruvian territory was home to several ancient cultures. Ranging from the Norte Chico civilization starting in 3500 BCE, the oldest civilization in the Americas and one of the five cradles of civilization, to the Inca Empire, the largest state in the pre-Columbian Americas, the territory now including Peru has one of the longest histories of civilization of any country, tracing its heritage back to the 4th millennia BCE.
+            
+            The Spanish Empire conquered the region in the 16th century and established a viceroyalty that encompassed most of its South American territories, with its capital in Lima. Higher education started in the Americas with the official establishment of the National University of San Marcos in Lima in 1551. Peru formally proclaimed independence in 1821, and following the foreign military campaigns of José de San Martín and Simón Bolívar, and the decisive battle of Ayacucho, Peru completed its independence in 1824. In the ensuing years, the country enjoyed relative economic and political stability, which ended shortly before the War of the Pacific (1879–1884) with Chile. Throughout the 20th century, Peru endured armed territorial disputes, coups, social unrest, and internal conflicts, as well as periods of stability and economic upswing. In the 1990s, the country implemented a neoliberal economic model which is still in use to this day. Since then, Peru has experienced a constant economic growth and a decrease in inequality.
+        </description>
+        <img>./imgs/macu_pikcu_arhitektura_aps_866875736.jpg,./imgs/peru2.jpg,./imgs/peru3.jpg</img>
+    </country>
+    <country>
+        <name>China</name>
+        <region>Asia</region>
+        <capital>Peking</capital>
+        <description> People's Republic of China (Chinese: 中华人民共和国; 
+            pinyin: Zhōnghuá Rénmín Gònghéguó; PRC), is a country in East Asia. It is the world's most populous country, with a population of more than 1.4 billion.[13] Covering an area of approximately 9.6 million square kilometers (3.7 million mi2), it is the world's third or fourth-largest country.[k] The country is officially divided into 23 provinces,[l][19] five autonomous regions, and four direct-controlled municipalities of Beijing (the capital city), Tianjin, Shanghai (the largest city), and Chongqing, as well as two special administrative regions of Hong Kong and Macau.
+
+            China emerged as one of the world's first civilizations, in the fertile basin of the Yellow River in the North China Plain. China was one of the world's foremost economic powers for most of the two millennia from the 1st until the 19th century.[20] For millennia, China's political system was based on absolute hereditary monarchies, or dynasties, beginning with the Xia dynasty in 21st century BCE. Since then, China has expanded, fractured, and re-unified numerous times. In the 3rd century BCE, the Qin reunited core China and established the first Chinese empire. The succeeding Han dynasty (206 BCE–220 CE) saw some of the most advanced technology at that time, including papermaking and the compass, along with agricultural and medical improvements. The invention of gunpowder and movable type in the Tang dynasty (618–907) and Northern Song Dynasty (960–1127) completed the Four Great Inventions. Tang culture spread widely in Asia, as the new Silk Route brought traders to as far as Mesopotamia and the Horn of Africa. The Qing Empire, China's last dynasty, which formed the territorial basis for modern China suffered heavy losses to foreign imperialism. The Chinese monarchy collapsed in 1912 with the 1911 Revolution, when the Republic of China (ROC) replaced the Qing dynasty. China was invaded by the Empire of Japan during World War II. The Chinese Civil War resulted in a division of territory in 1949 when the Chinese Communist Party (CCP) led by Mao Zedong established the People's Republic of China on mainland China while the Kuomintang-led ROC government retreated to the island of Taiwan.[m] Both the PRC and the ROC currently claim to be the sole legitimate government of China, resulting in an ongoing dispute even after the United Nations recognized the PRC as the government to represent China at all UN conferences in 1971.
+        </description>
+        <img>./imgs/china.jpg,./imgs/china2.png,./imgs/china3.jpg</img>
+    </country>
+    <country>
+        <name>Russia</name>
+        <region>Europ</region>
+        <capital>Moscow</capital>
+        <description> Republic of Colombia,[a] is a country in South America. It is bounded on the north by the Caribbean Sea, the northwest by Panama, the south by Ecuador and Peru, the east by Venezuela, the southeast by Brazil, and the west by the Pacific Ocean. Colombia is composed of 32 departments and the Capital District of Bogotá, the country's largest city. It covers an area of 1,418,748 square kilometres (547,782 sq mi), with a population of 50 million. Colombia's rich cultural heritage reflects influences by various Amerindian civilisations, European settlement, forced African labour, and immigration from Europe and the Middle East. Spanish is the nation's official language, besides which over 70 languages are spoken.
+        Colombia has been inhabited by various indigenous peoples since at least 12,000 BCE, including the Muisca, Quimbaya, and the Tairona. The Spanish landed first in La Guajira in 1499 and by the mid-16th century colonized parts of the region, establishing the New Kingdom of Granada, with Santafé de Bogotá as its capital. Independence from the Spanish Empire was achieved in 1810, with what is now Colombia emerging as the United Provinces of New Granada. The new nation experimented with federalism as the Granadine Confederation (1858), and then the United States of Colombia (1863), before the Republic of Colombia was finally declared in 1886. Panama seceded in 1903, leading to Colombia's present borders. Beginning in the 1960s, the country has suffered from an asymmetric low-intensity armed conflict and political violence, both of which escalated in the 1990s. Since 2005, there has been significant improvement in security, stability, and rule of law, as well as unprecedented economic growth and development.[13][14]
+        </description>
+        <img>./imgs/russia.jpg,./imgs/russia2.jpg,./imgs/russia3.jpg</img>
+    </country>
+    <country>
+        <name>India</name>
+        <region>Asia</region>
+        <capital>New Delhi</capital>
+        <description>Republic of India (Hindi: Bhārat Gaṇarājya),[23] is a
+            country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand, Myanmar and Indonesia.
+
+            Modern humans arrived on the Indian subcontinent from Africa no later than 55,000 years ago.[24] Their long occupation, initially in varying forms of isolation as hunter-gatherers, has made the region highly diverse, second only to Africa in human genetic diversity.[25] Settled life emerged on the subcontinent in the western margins of the Indus river basin 9,000 years ago, evolving gradually into the Indus Valley Civilisation of the third millennium BCE.[26] By 1200 BCE, an archaic form of Sanskrit, an Indo-European language, had diffused into India from the northwest,[27] unfolding as the language of the Rigveda, and recording the dawning of Hinduism in India.[28][disputed – discuss] The Dravidian languages of India were supplanted in the northern and western regions.[29] By 400 BCE, stratification and exclusion by caste had emerged within Hinduism,[30] and Buddhism and Jainism had arisen, proclaiming social orders unlinked to heredity.[31] Early political consolidations gave rise to the loose-knit Maurya and Gupta Empires based in the Ganges Basin.[32] Their collective era was suffused with wide-ranging creativity,[33] but also marked by the declining status of women,[34] and the incorporation of untouchability into an organised system of belief.[g][35] In South India, the Middle kingdoms exported Dravidian-languages scripts and religious cultures to the kingdoms of Southeast Asia.[36]
+        </description>
+        <img>./imgs/inda.jpg,./imgs/inda2.jpg,./imgs/inda3.jpg</img>
+    </country>
+    <country>
+        <name>Columbia</name>
+        <region>South America</region>
+        <capital>Bogota</capital>
+        <description> Republic of Colombia,[a] is a country in South
+            America. It is bounded on the north by the Caribbean Sea, the northwest by Panama, the south by Ecuador and Peru, the east by Venezuela, the southeast by Brazil, and the west by the Pacific Ocean. Colombia is composed of 32 departments and the Capital District of Bogotá, the country's largest city. It covers an area of 1,418,748 square kilometres (547,782 sq mi), with a population of 50 million. Colombia's rich cultural heritage reflects influences by various Amerindian civilisations, European settlement, forced African labour, and immigration from Europe and the Middle East. Spanish is the nation's official language, besides which over 70 languages are spoken.
+            Colombia has been inhabited by various indigenous peoples since at least 12,000 BCE, including the Muisca, Quimbaya, and the Tairona. The Spanish landed first in La Guajira in 1499 and by the mid-16th century colonized parts of the region, establishing the New Kingdom of Granada, with Santafé de Bogotá as its capital. Independence from the Spanish Empire was achieved in 1810, with what is now Colombia emerging as the United Provinces of New Granada. The new nation experimented with federalism as the Granadine Confederation (1858), and then the United States of Colombia (1863), before the Republic of Colombia was finally declared in 1886. Panama seceded in 1903, leading to Colombia's present borders. Beginning in the 1960s, the country has suffered from an asymmetric low-intensity armed conflict and political violence, both of which escalated in the 1990s. Since 2005, there has been significant improvement in security, stability, and rule of law, as well as unprecedented economic growth and development.[13][14]
+        </description>
+        <img>./imgs/columbio.jpg,./imgs/colombia2.jpg,./imgs/colombia3.jpg</img>
+    </country>
+</countrys_lis>

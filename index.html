@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="node_modules/@glidejs/glide/dist/css/glide.core.min.css">
+
+
+    <link rel="stylesheet" href="node_modules/@glidejs/glide/dist/css/glide.theme.min.css">
+</head>
+<body>
+    
+    <div class="wrapper">
+
+        <header>
+            <div class="logo">Countres List</div>
+            <div class="nav">
+                <a href="#home">Home</a>
+                <a id="select_region" href="#">Select Region</a>
+                <ul class="region_list"></ul>
+            </div>
+        </header>
+
+        <main>
+            <div id="filter"> </div>
+            <section id="app" class="country_list "></section>
+        </main>
+        
+        <footer></footer>
+
+    </div>
+
+
+
+
+
+    
+    <script src="node_modules/@glidejs/glide/dist/glide.min.js"></script>
+    <script src="./js.js"></script>
+</body>
+</html>
